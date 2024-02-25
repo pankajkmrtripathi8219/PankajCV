@@ -4,7 +4,7 @@ Cell: 7760504660
 pankajkmrtripathi@gmail.com					
 
 Summary
-•	14+ Years of Professional Experience in SharePoint Development (Online, Server/Client/Web Services), VS (2005/2008/2010/2017), .Net framework, ASP.NET, ADO.NET, WCF, and Custom Controls, Visual Basic, VBA Development (MS Access, Excel),Quantitative Analysis, Excel Services, Access Services, 
+•	14+ Years of Professional Experience in SharePoint Development (Online, Server/Client/Web Services), VS (2005/2008/2010/2017), .Net framework, ASP.NET, ADO.NET, 	WCF, and Custom Controls, Visual Basic, VBA Development (MS Access, Excel),Quantitative Analysis, Excel Services, Access Services, 
 •	Extensive experience in migration from Dashboard Reporting solution from Microsoft Office to SQL Server environment (SSIS, SSRS, SharePoint, Winforms, VB)
 •	Extensive experience in Developing and building Web Parts using SP designer 2007/2010 and Visual Studio.
 •	Hands-on experience in designing and implementing various SharePoint Web Parts, Tool Parts, Web Part Pages, Content Types and various Document Libraries and Lists.
@@ -27,8 +27,8 @@ Certification
 Work Experience
 
 1: 	Designation          	: VBA Developer
-Employer 		: IBM (Primus Global)
-Duration                 	: July 2022 to July 2023
+	Employer 		: IBM (Primus Global)
+	Duration               	: July 2022 to July 2023
 Supporting a Banking project (Luminor Group) for new enhancements, debugging existing application for a Banking domain company based in Luthiana.
 Responsibilities: 
 •	Automating the business processes using VBA, SQL, and MS Office Productivity Tools.
@@ -38,8 +38,8 @@ Responsibilities:
 •	Act as a window person for all the Application Support, BI Development, Data Modeling etc.
 
 2:	Designation          	: Sales Data Analyst (VBA Developer)
-Employer 		: Edify Online
-Duration                 	: Feb 2021 to May 2022
+	Employer 		: Edify Online
+	Duration                : Feb 2021 to May 2022
 Supporting a project for new enhancements, debugging existing application for a power domain company based in USA.
 Responsibilities: 
 •	Automating the business processes using VBA, SQL, and MS Office Productivity Tools.
@@ -49,11 +49,11 @@ Responsibilities:
 •	Share Power BI content through a SharePoint Portal.
 •	Act as a window person for all the Application Support, BI Development, Data Modeling etc.
 
-3:	Designation          : Technical Lead
-Employer 		: Team Lease Services Ltd.
-Duration                 	: 15th Jul. 2019 to 18th Sep. 2019
-Client			: Mercedes Benz RD Center, India
-Software                  :VBA, Access, MicroStation SS10, C#, WinForms
+3:	Designation          	: Technical Lead
+	Employer 		: Team Lease Services Ltd.
+	Duration               	: 15th Jul. 2019 to 18th Sep. 2019
+	Client			: Mercedes Benz RD Center, India
+	Software             	: VBA, Access, MicroStation SS10, C#, WinForms
 The Digital Transformation team of MBRDI, wanted a solution for viewing, Editing, and Customizing the Design(.dgn) files even with Inhouse solution or with External add-ins/solutions.
 I joined them as a solution Developer for MicroStation VBA Developer, and completed the project withing Budgetby developing Add inns using WinForms and C#.
 Responsibilities: 
@@ -65,10 +65,10 @@ Responsibilities:
 Newly transitioned project from other Vendor to support for dbWIA application. dbWIA (DB Workflow Interim Application) is a tactical P&L Workflow application currently being used by Global Market Equities for Global Equity Derivatives and Equity Proprietary Trading businesses across Sydney to cleanse, analyze and report financials and attribution P&L to Middle and Front Office.
 
 4:  	Designation	: Technical Lead
-Employer	: HCL Technologies Ltd. 
-Duration	: Aug 2014 to Nov 2017
-Client		: Deutsche Bank AG Frankfurt
-Software      	: SharePoint 2010, VS 2010, C#, VBA, Excel, Access, SQL Server 2008
+	Employer	: HCL Technologies Ltd. 
+	Duration	: Aug 2014 to Nov 2017
+	Client		: Deutsche Bank AG Frankfurt
+	Software      	: SharePoint 2010, VS 2010, C#, VBA, Excel, Access, SQL Server 2008
 Responsibilities
 •	Developing SharePoint Team Site, Pages, Dashboard for work distribution, tracking and publishing the KPI report on Project Space.
 •	Link the MS Access and Excel content to Team Site.
